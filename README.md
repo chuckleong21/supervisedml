@@ -2,7 +2,7 @@
 
 ### A note on finishing the course
 
-After almost two weeks spending on trying out the course by [@juliasilge](https://twitter.com/juliasilge) on [supervised ML Case Studies with R](https://supervised-ml-course.netlify.com/), this is indeed a beginner-friendly course for those looking to real-life application of machine learning techniques, coupled with data analytics. The course consists of 4 case studies, 2 using regression and 2 using binary classification. The hands-on procedures are also considered standard for those working in data science industry: explore, visualize, tidy/transform data set before working your way to build a machine learning model -- train, (validate), test and pick the best model from the model pool. Other than the **clear structure** of course, it comes with other few highlights:
+After almost two weeks spending on trying out the course by [@juliasilge](https://twitter.com/juliasilge) on [supervised ML Case Studies with R](https://supervised-ml-course.netlify.com/), this is indeed a **beginner-friendly** course for those looking for real-life application of machine learning techniques, coupled with data analytics. The course consists of 4 case studies, 2 using regression and 2 using binary classification. The hands-on procedures are also considered standard for those working in data science industry: explore, visualize, tidy/transform data before working your way to build a machine learning model -- train, (validate), test and pick the best model from the model pool. Other than the **clear structure** of course, it comes with other few highlights:
 
 ##### It's free.
 
