@@ -165,7 +165,7 @@ resampling <-
 resampling %>% 
         ggplot(aes(.metric, .estimate)) +
         facet_wrap(~.model) + 
-        geom_point(aes(color = .resampling, shape = .resampling), size = 2) + 
+        geom_point(aes(color = .resampling, shape = .resampling), size = 4) + 
         geom_line(aes(group = .metric)) + 
         coord_flip() + 
         scale_x_discrete(limits = c("npv", "ppv", "accuracy"))
